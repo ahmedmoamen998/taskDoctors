@@ -1,0 +1,59 @@
+﻿<div class="row">
+    <div class="col-md-3">
+        <h1><i>@Model.Name</i></h1>
+        <div class="col-md-6">
+            <a href="/Home" class="btn btn-primary btn-dark">Home</a>
+        </div>
+    </div>
+</div>
+
+<div class="row col-3">
+    <form id="patientForm" action="/Details/AddPatient">
+        <div class="mb-3">
+            <label for="patient-name" class="form-label mt-4">Patient Name</label>
+            <input type="text" id="patient-name" name="Name" required class="form-control" placeholder="Enter patient name">
+            <input type="hidden" id="patient-id" name="Id" required class="form-control">
+
+            <label for="appointment-date" class="form-label mt-4">Appointment Date:</label>
+            <input type="date" id="appointment-date" class="form-control" name="Date" required>
+
+            <label for="appointment-time" class="form-label mt-4">Appointment Time:</label>
+            <input type="time" id="appointment-time" class="form-control" name="Time" required>
+
+            <input type="hidden" name="DoctorId" value="@Model.Id" required>
+        </div>
+
+        <!-- Submit button triggers the modal -->
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#confirmSubmitModal">
+            Submit
+        </button>
+    </form>
+</div>
+add
+<!-- Bootstrap Modal for confirmation -->
+<div class="modal fade" id="confirmSubmitModal" tabindex="-1" aria-labelledby="confirmSubmitModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="confirmSubmitModalLabel">Confirm Submission</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                Are you sure you want to submit the patient information?
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                <!-- This button submits the form -->
+                <button type="button" class="btn btn-primary" id="confirmSubmit">Confirm</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- JavaScript to handle form submission after modal confirmation -->
+<script>
+    document.getElementById('confirmSubmit').addEventListener('click', function() {
+        // Submit the form after the confirmation
+        document.getElementById('patientForm').submit();
+    });
+</script>

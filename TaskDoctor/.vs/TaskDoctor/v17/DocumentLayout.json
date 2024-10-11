@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aio\\Desktop\\TaskDoctor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/._NEWMSSQLSERVER/FirstMvcTask/True/SqlTable/dbo.Patients.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E786EF65-142F-44C4-9ACD-13F01BA6BF18}|TaskDoctor.csproj|c:\\users\\aio\\desktop\\taskdoctor\\views\\details\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E786EF65-142F-44C4-9ACD-13F01BA6BF18}|TaskDoctor.csproj|solutionrelative:views\\details\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E786EF65-142F-44C4-9ACD-13F01BA6BF18}|TaskDoctor.csproj|c:\\users\\aio\\desktop\\taskdoctor\\controllers\\detailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E786EF65-142F-44C4-9ACD-13F01BA6BF18}|TaskDoctor.csproj|solutionrelative:controllers\\detailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E786EF65-142F-44C4-9ACD-13F01BA6BF18}|TaskDoctor.csproj|c:\\users\\aio\\desktop\\taskdoctor\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E786EF65-142F-44C4-9ACD-13F01BA6BF18}|TaskDoctor.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E786EF65-142F-44C4-9ACD-13F01BA6BF18}|TaskDoctor.csproj|c:\\users\\aio\\desktop\\taskdoctor\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E786EF65-142F-44C4-9ACD-13F01BA6BF18}|TaskDoctor.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E786EF65-142F-44C4-9ACD-13F01BA6BF18}|TaskDoctor.csproj|c:\\users\\aio\\desktop\\taskdoctor\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E786EF65-142F-44C4-9ACD-13F01BA6BF18}|TaskDoctor.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E786EF65-142F-44C4-9ACD-13F01BA6BF18}|TaskDoctor.csproj|c:\\users\\aio\\desktop\\taskdoctor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E786EF65-142F-44C4-9ACD-13F01BA6BF18}|TaskDoctor.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E786EF65-142F-44C4-9ACD-13F01BA6BF18}|TaskDoctor.csproj|c:\\users\\aio\\desktop\\taskdoctor\\views\\details\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E786EF65-142F-44C4-9ACD-13F01BA6BF18}|TaskDoctor.csproj|solutionrelative:views\\details\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E786EF65-142F-44C4-9ACD-13F01BA6BF18}|TaskDoctor.csproj|c:\\users\\aio\\desktop\\taskdoctor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E786EF65-142F-44C4-9ACD-13F01BA6BF18}|TaskDoctor.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EraaSoft\\DataBase\\DB06Eraasoft .Net 506\\Code\\Demo\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aio\\Desktop\\firstmvc\\Views\\Create\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Aio\\Desktop\\TaskDoctor\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\Aio\\Desktop\\TaskDoctor\\Models\\Patient.cs",
+              "RelativeToolTip": "Models\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:36:19.177Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Patients [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/._NEWMSSQLSERVER/FirstMvcTask/True/SqlTable/dbo.Patients.sql",
+              "ToolTip": "dbo.Patients [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-10T19:04:20.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\Aio\\Desktop\\TaskDoctor\\Controllers\\DetailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DetailsController.cs",
+              "ToolTip": "C:\\Users\\Aio\\Desktop\\TaskDoctor\\Controllers\\DetailsController.cs",
+              "RelativeToolTip": "Controllers\\DetailsController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA8wBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:19:24.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aio\\Desktop\\TaskDoctor\\Views\\Details\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Details\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Aio\\Desktop\\TaskDoctor\\Views\\Details\\Details.cshtml",
+              "RelativeToolTip": "Views\\Details\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T23:46:56.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Aio\\Desktop\\TaskDoctor\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Aio\\Desktop\\TaskDoctor\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:20:19.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aio\\Desktop\\TaskDoctor\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Aio\\Desktop\\TaskDoctor\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:39:06.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Aio\\Desktop\\TaskDoctor\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Aio\\Desktop\\TaskDoctor\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:00:18.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aio\\Desktop\\TaskDoctor\\Views\\Details\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Details\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aio\\Desktop\\TaskDoctor\\Views\\Details\\Index.cshtml",
+              "RelativeToolTip": "Views\\Details\\Index.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwBcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T02:34:59.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aio\\Desktop\\TaskDoctor\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aio\\Desktop\\TaskDoctor\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T22:20:24.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\EraaSoft\\DataBase\\DB06Eraasoft .Net 506\\Code\\Demo\\Models\\Category.cs",
+              "ToolTip": "D:\\EraaSoft\\DataBase\\DB06Eraasoft .Net 506\\Code\\Demo\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:48:46.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aio\\Desktop\\firstmvc\\Views\\Create\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\firstmvc\\Views\\Create\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aio\\Desktop\\firstmvc\\Views\\Create\\Index.cshtml",
+              "RelativeToolTip": "..\\firstmvc\\Views\\Create\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T01:22:53.236Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
